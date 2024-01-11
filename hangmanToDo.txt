@@ -1,0 +1,39 @@
+//////////// TOTAL HOURS:
+
+9
+
+
+
+////////// LAST LEFT OFF:
+
+Why the flip is usedLetters' strlen equal to 31??
+
+Rearranging the struct did something!! Fix problem by doing so?
+
+
+
+///////////// NEED TO DO:
+
+Use boolean in EvaluateGuess to know when the players guessed wrong or right.
+
+Iterate through hostWord, if hostWord[i] == guessedLetter, then assign guessedLetter to guesserWord[i]
+
+
+
+
+
+
+
+Noose draw idea:
+
+  -------|
+  |      J
+  |      O
+  |     \|/
+  |      |
+ _L_    / \
+
+
+Print a bunch of newlines to put distance between each new guessed
+Show a list of used up letters
+
